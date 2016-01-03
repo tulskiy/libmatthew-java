@@ -14,3 +14,4 @@ Manifest
 classes/
 doc/
 target/
+*.iml
